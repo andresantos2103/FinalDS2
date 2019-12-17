@@ -1,0 +1,130 @@
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.deps.json
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.runtimeconfig.json
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.dll
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.csprojAssemblyReference.cache
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorAssemblyInfo.cache
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorAssemblyInfo.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.AssemblyInfo.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.TagHelpers.input.cache
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.TagHelpers.output.cache
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorCoreGenerate.cache
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorTargetAssemblyInfo.cache
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorTargetAssemblyInfo.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.pdb
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.Views.dll
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.Views.pdb
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.Views.pdb
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.dll
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.pdb
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.csproj.CopyComplete
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Create.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Delete.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Details.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Edit.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Index.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Create.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Delete.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Details.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Edit.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Index.cshtml.g.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.deps.json
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.runtimeconfig.json
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.runtimeconfig.dev.json
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.dll
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.pdb
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.Views.dll
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.Views.pdb
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.csprojAssemblyReference.cache
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorAssemblyInfo.cache
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorAssemblyInfo.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.AssemblyInfoInputs.cache
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.AssemblyInfo.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.TagHelpers.input.cache
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.TagHelpers.output.cache
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorCoreGenerate.cache
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Create.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Delete.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Details.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Edit.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Index.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Create.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Delete.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Details.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Edit.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Index.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\LimitPlacar.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorTargetAssemblyInfo.cache
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorTargetAssemblyInfo.cs
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.Views.pdb
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.dll
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.pdb
+C:\Users\ivan\Downloads\Campeonato\Campeonato\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.csproj.CopyComplete
+C:\Users\Lany\Desktop\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.deps.json
+C:\Users\Lany\Desktop\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.runtimeconfig.json
+C:\Users\Lany\Desktop\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.runtimeconfig.dev.json
+C:\Users\Lany\Desktop\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.dll
+C:\Users\Lany\Desktop\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.pdb
+C:\Users\Lany\Desktop\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.Views.dll
+C:\Users\Lany\Desktop\Campeonato\Campeonato\bin\Debug\netcoreapp2.1\Campeonato.Views.pdb
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.csprojAssemblyReference.cache
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.csproj.CoreCompileInputs.cache
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorAssemblyInfo.cache
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorAssemblyInfo.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.AssemblyInfoInputs.cache
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.AssemblyInfo.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.TagHelpers.input.cache
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.TagHelpers.output.cache
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorCoreGenerate.cache
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Create.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Delete.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Details.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Edit.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Jogadores\Index.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Create.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Delete.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Details.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Edit.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\Index.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Placares\LimitPlacar.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorTargetAssemblyInfo.cache
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.RazorTargetAssemblyInfo.cs
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.Views.pdb
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.dll
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.pdb
+C:\Users\Lany\Desktop\Campeonato\Campeonato\obj\Debug\netcoreapp2.1\Campeonato.csproj.CopyComplete
