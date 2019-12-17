@@ -1,0 +1,78 @@
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.deps.json
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.runtimeconfig.json
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.dll
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.pdb
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.Views.dll
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.Views.pdb
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.csprojAssemblyReference.cache
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorAssemblyInfo.cache
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorAssemblyInfo.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.AssemblyInfo.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.TagHelpers.input.cache
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.TagHelpers.output.cache
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorCoreGenerate.cache
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorTargetAssemblyInfo.cache
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorTargetAssemblyInfo.cs
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.Views.pdb
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.dll
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.pdb
+C:\Users\Luiz Henrique\Desktop\GeEstoque\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.csproj.CopyComplete
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.deps.json
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.runtimeconfig.json
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.runtimeconfig.dev.json
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.dll
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.pdb
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.Views.dll
+C:\Users\vi\source\repos\GeToque\GeToque\bin\Debug\netcoreapp2.1\GeToque.Views.pdb
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.csprojAssemblyReference.cache
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorAssemblyInfo.cache
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorAssemblyInfo.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.AssemblyInfoInputs.cache
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.AssemblyInfo.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.TagHelpers.input.cache
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.TagHelpers.output.cache
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorCoreGenerate.cache
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorTargetAssemblyInfo.cache
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.RazorTargetAssemblyInfo.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.Views.pdb
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.dll
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.pdb
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\GeToque.csproj.CopyComplete
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Roupas\Create.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Roupas\Delete.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Roupas\Details.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Roupas\Edit.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Roupas\Index.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Confeccaos\Create.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Confeccaos\Delete.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Confeccaos\Details.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Confeccaos\Edit.cshtml.g.cs
+C:\Users\vi\source\repos\GeToque\GeToque\obj\Debug\netcoreapp2.1\Razor\Views\Confeccaos\Index.cshtml.g.cs

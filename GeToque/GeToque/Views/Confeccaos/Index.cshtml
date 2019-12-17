@@ -1,0 +1,37 @@
+﻿@model IEnumerable<GeToque.Models.Confeccao>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>@Model.Count() confecções cadastrados</h2>
+
+<p>
+    
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Roupa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Horario)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Roupa.Tipos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Horario)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

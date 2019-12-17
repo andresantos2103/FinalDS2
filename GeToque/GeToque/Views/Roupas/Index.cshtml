@@ -1,0 +1,41 @@
+﻿@model IEnumerable<GeToque.Models.Roupa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>@Model.Count() roupas cadastradas</h2>
+
+<p>
+    <a class="btn btn-danger" asp-action="Create">Cadastrar</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantidade)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.RoupaId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.RoupaId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.RoupaId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
